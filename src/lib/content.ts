@@ -27,10 +27,10 @@ export const content = {
     footer: {
       logoAlt: "wyd did 청주 로고",
       address:
-        "충청북도 청주시 청원구 주성로 135-35 WYD 청주 교구대회 사무국",
-      email: "qna.wyd.doc.icn@gmail.com",
-      phone: "032-765-6997",
-      hours: "운영시간: 10:00 ~ 18:00",
+        "충청북도 청주시 상당구 중앙로 61번길 16",
+      email: "wyd2027cheongju@gmail.com",
+      phone: "043-220-1700",
+      hours: "운영시간: 월~금 08:30~17:30 (점심시간 12:30~13:30)",
       copyright: "Copyright ⓒ 청주교구 All rights reserved",
     },
     slider: {
@@ -85,10 +85,10 @@ export const content = {
     footer: {
       logoAlt: "wyd did Cheongju logo",
       address:
-        "135-35, Juseong-ro, Cheongwon-gu, Cheongju-si, Chungcheongbuk-do, WYD Cheongju Diocesan Committee",
-      email: "qna.wyd.doc.icn@gmail.com",
-      phone: "032-765-6997",
-      hours: "Hours: 10:00 ~ 18:00",
+        "16, Jungang-ro 61beon-gil, Sangdang-gu, Cheongju-si, Chungcheongbuk-do",
+      email: "wyd2027cheongju@gmail.com",
+      phone: "043-220-1700",
+      hours: "Hours: Mon-Fri 08:30~17:30 (Lunch 12:30~13:30)",
       copyright: "Copyright ⓒ Diocese of Cheongju All rights reserved",
     },
     slider: {
