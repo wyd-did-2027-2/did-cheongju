@@ -23,7 +23,6 @@ import "@egjs/flicking-plugins/dist/pagination.css";
 import SliderItem00 from "./slider-item/slider-item00";
 import SliderItem01 from "./slider-item/slider-item01";
 import SliderItem02 from "./slider-item/slider-item02";
-import SliderItem03 from "./slider-item/slider-item03";
 
 export default function MainSlider({ locale = "kr" }: { locale?: Locale }) {
   const t = content[locale].slider;
@@ -152,9 +151,6 @@ export default function MainSlider({ locale = "kr" }: { locale?: Locale }) {
         </Panel>
         <Panel>
           <SliderItem02 />
-        </Panel>
-        <Panel>
-          <SliderItem03 />
         </Panel>
       </div>
       <div
