@@ -20,7 +20,7 @@ export const content = {
       ogLocale: "ko_KR",
     },
     header: {
-      logoAlt: "wyd did 청주 로고",
+      logoAlt: "wyd did 청주",
       nav: {
         home: "홈",
         calendar: "캘린더",
@@ -31,7 +31,7 @@ export const content = {
       },
     },
     footer: {
-      logoAlt: "wyd did 청주 로고",
+      logoAlt: "wyd did 청주",
       address:
         "충청북도 청주시 상당구 중앙로 61번길 16",
       email: "wyd2027cheongju@gmail.com",
@@ -78,7 +78,7 @@ export const content = {
       ogLocale: "en_US",
     },
     header: {
-      logoAlt: "wyd did Cheongju logo",
+      logoAlt: "wyd did Cheongju",
       nav: {
         home: "Home",
         calendar: "Calendar",
@@ -89,7 +89,7 @@ export const content = {
       },
     },
     footer: {
-      logoAlt: "wyd did Cheongju logo",
+      logoAlt: "wyd did Cheongju",
       address:
         "16, Jungang-ro 61beon-gil, Sangdang-gu, Cheongju-si, Chungcheongbuk-do",
       email: "wyd2027cheongju@gmail.com",
