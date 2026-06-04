@@ -58,7 +58,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="ko" className="lenis lenis-smooth">
+    <html lang="ko" className="lenis lenis-smooth test">
       <body className={pretendard.className}>{children}</body>
     </html>
   );
